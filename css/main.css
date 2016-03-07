@@ -1,5 +1,6 @@
 html {
   box-sizing: border-box;
+  font-family: "Merriweather", serif;
 }
 
 *, *::before, *::after {
@@ -8,9 +9,27 @@ html {
 
 body {
   margin: 0;
+  color: white;
+}
+
+h1 {
+  background-color: #d05c2e;
   text-align: center;
 }
 
+ul {
+  list-style-type: none;
+  background-color: #d05c2e;
+  text-align: center;
+}
+
+li {
+  padding: 1rem;
+}
+
+img {
+  width: 10%;
+}
 
 
 Text sizes: 2rem, 1.125rem
