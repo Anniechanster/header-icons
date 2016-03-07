@@ -1,0 +1,17 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+}
+
+
+
+Text sizes: 2rem, 1.125rem
+Colours: #d05c2e, #a63f38
